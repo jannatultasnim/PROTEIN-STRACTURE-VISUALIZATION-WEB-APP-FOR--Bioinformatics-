@@ -9,10 +9,10 @@ MOLECULE STRACTURE VISUALIZATION WEB-APP using PYTHON and STREAMLIT
 
 ### Stmol features
 
-    An easy-to-use component for rendering interactive 3D molecular visualizations of protein and ligand structures within Streamlit web-apps
-    ``` stmol ``` can render protein and ligand structures with just a few lines of Python code by utilizing popular visualization libraries, currently Py3DMol and Speck.
-    On the user-end, ``` stmol ``` does not require expertise to interactively navigate.
-    On the developer-end, ``` stmol ``` can be easily integrated within structural bioinformatic and cheminformatic pipelines to provide a simple means for user-end researchers to advance biological studies and drug discovery efforts.
+    - [x] An easy-to-use component for rendering interactive 3D molecular visualizations of protein and ligand structures within Streamlit web-apps
+    - [x] stmol can render protein and ligand structures with just a few lines of Python code by utilizing popular visualization libraries, currently Py3DMol and Speck.
+    - [x] On the user-end, ``` stmol ``` does not require expertise to interactively navigate.
+    - [x] On the developer-end, ``` stmol ``` can be easily integrated within structural bioinformatic and cheminformatic pipelines to provide a simple means for user-end researchers to advance biological studies and drug discovery efforts.
 
 
 ### ipypeck
